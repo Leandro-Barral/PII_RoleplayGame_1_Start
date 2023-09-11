@@ -44,6 +44,8 @@ Recuerden: los personajes deben poder tener items. Por ejemplo, los magos pueden
 
 Deberán crear y subir al repositorio el modelo en forma de diagrama de clases.
 
+Link al Diagrama de Clases: https://drive.google.com/file/d/1pE7Lh3SJMqMXdjigCEByyXrl5BneOa2q/view?usp=sharing
+
 ## Parte 2: Creación
 
 Cada equipo deberá crear las clases representadas en el modelo anterior. Cada integrante deberá crear, al menos:
